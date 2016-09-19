@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					4ED20A9A1D8F89490073BF22 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 686TP5D9Q7;
 						ProvisioningStyle = Automatic;
 					};
 					4ED20AB31D8F89490073BF22 = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 686TP5D9Q7;
 				INFOPLIST_FILE = emitterLayerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ZHTC.emitterLayerDemo;
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 686TP5D9Q7;
 				INFOPLIST_FILE = emitterLayerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ZHTC.emitterLayerDemo;
